@@ -21,8 +21,15 @@ Upon a successful setup, double clicking your .bat file will launch the followin
 7. Repeat step 3 with Livesplit
 8. Repeat step 3 with Epic Games.
 
-# Examples
+# Example
 
-I have included examples from myself and codename_geek to showcase how it should look at the end. Mine is the one released but if you have all your rando materials in one location, codename_geek's version might look better.
+My .bat file is the filled in version of the .bat file in the release and looks like this.
 
 ![image](https://user-images.githubusercontent.com/58533981/165543258-43d2df73-7d63-4d23-8ea4-2ed08fcf8692.png)
+
+# Advanced
+
+Credit to codename_geek in that he had the foresight to have all his randomizer stuff in the same folder. If this applies to you, you can do something like this.
+
+![image](https://user-images.githubusercontent.com/58533981/165544360-3a8ec8e2-9931-4b9a-aae4-dab4969bfa91.png)
+
