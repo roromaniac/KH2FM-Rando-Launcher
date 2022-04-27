@@ -27,7 +27,7 @@ My .bat file is the filled in version of the .bat file in the release and looks 
 
 ![image](https://user-images.githubusercontent.com/58533981/165543258-43d2df73-7d63-4d23-8ea4-2ed08fcf8692.png)
 
-# Advanced
+# (Optional) Advanced Example
 
 Credit to codename_geek in that he had the foresight to have all his randomizer stuff in the same folder. If this applies to you, you can do something like this.
 
