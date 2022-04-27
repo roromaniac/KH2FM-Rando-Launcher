@@ -27,11 +27,12 @@ Upon a successful setup, double clicking your .bat file will launch the followin
 
 My .bat file is the filled in version of the .bat file in the release and looks like this.
 
-![image](https://user-images.githubusercontent.com/5854981/165544258-44d2df74-7d64-4d24-8ea4-2ed08fcf8692.png)
+![image](images/myexample.png)
 
 # (Optional) Advanced Example
 
 Credit to codename_geek in that he had the foresight to have all his randomizer stuff in the same folder. If this applies to you, you can do something like this.
+NOTE: codename_geek's example has other programs I didn't include.
 
-![image](https://user-images.githubusercontent.com/5854981/165544460-4a8ec8e2-9941-4b9a-aae4-dab4969bfa91.png)
+![image](images/codename_geek_example.png)
 
