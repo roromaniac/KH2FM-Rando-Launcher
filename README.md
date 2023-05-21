@@ -6,9 +6,7 @@ Upon a successful setup, double clicking your .bat file will launch the followin
 1. KHTracker
 2. Livesplit
 3. Seed Generator
-4. build_from_mm
-5. Epic Games Launcher
-6. Mods Manager
+4. Mods Manager
 
 # Instructions
 
@@ -18,10 +16,8 @@ Upon a successful setup, double clicking your .bat file will launch the followin
 4. Find the folder that has your KHTracker. Place the path of that folder where you're instructed to in the .bat file. It should replace both the instruction and the parentheses BUT NOT the cd.
 5. Repeat step 4 with your KH2Randomizer.exe (seed generator).
 6. Repeat step 4 with your OpenKh.Tools.ModsManager.exe (mods manager)
-7. Repeat step 4 with build_from_mm.exe.
-8. Repeat step 4 with Livesplit
-9. Repeat step 4 with Epic Games.
-10. That's it! Save the file and test that it works by double clicking it!
+7. Repeat step 4 with Livesplit
+8. That's it! Save the file and test that it works by double clicking it!
 
 # Example
 
