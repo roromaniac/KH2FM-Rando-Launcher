@@ -32,7 +32,7 @@ NOTE: codename_geek's example has other programs I didn't include.
 
 ![image](images/codename_geek_example.png)
 
-# Launching Programs Across Multiple Hard Drives and Files With Spaces
+# (Additional) Launching Programs Across Multiple Hard Drives and Files With Spaces
 
 Credit to danimalforlife. If you have programs ran across several hard drives, you will need to change the active directory. The example below shows how to have your batch file navigate to the proper directory. 
 
@@ -42,9 +42,7 @@ In a similar vein, if you're running into issues with your tracker not starting 
 
 ![danimalforlife Multiple Drives Example](https://github.com/user-attachments/assets/cc1f5a8a-023b-4276-9549-a946567faeed)
 
-
-
-# Running Programs As Administrator
+# (Additional) Running Programs As Administrator
 
 Credit to danimalforlife. If you have your programs set to run as admin there are three ways you can go about launching the batch file so that you don't have to manually give permission to each one.
 1. Right-click the batch file and run as administrator
