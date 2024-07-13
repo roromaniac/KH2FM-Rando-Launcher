@@ -51,7 +51,7 @@ Credit to danimalforlife. If you have your programs set to run as admin there ar
 2. Create a shortcut to the batch file --> Right Click --> Properties --> Compatibility --> Check "Run this program as an administrator" --> Click Apply, then OK
 3. You can insert the following string into the beginning of your batch file.
    
-   `set "params=%*"`
+`set "params=%*"`
    
 `cd /d "%~dp0" && ( if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs" ) && fsutil dirty query %systemdrive% 1>nul 2>nul || (  echo Set UAC = CreateObject^("Shell.Application"^) : UAC.ShellExecute "cmd.exe", "/k cd ""%~sdp0"" && ""%~s0"" %params%", "", "runas", 1 >> "%temp%\getadmin.vbs" && "%temp%\getadmin.vbs" && exit /B )`
 
